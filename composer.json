@@ -1,6 +1,6 @@
 {
     "name": "josiah/sypress",
-    "description": "A WordPress replacement which allows you to develop WordPress compatible plugins and themes.",
+    "description": "A WordPress replacement which also provides tools for developing WordPress compatible plugins and themes.",
     "require": {
         "php": ">=5.4"
     },
