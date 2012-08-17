@@ -45,4 +45,11 @@ interface ContentTypeInterface
      * @return boolean TRUE if hidden; FALSE otherwise.
      */
     function isHidden();
+
+    /**
+     * Gets the position of this content type in the administration menu
+     * 
+     * @return int
+     */
+    function getMenuPosition();
 }
